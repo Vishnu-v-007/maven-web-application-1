@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://34.207.114.116:9000/</sonar.host.url>
+		<sonar.host.url>http://98.90.200.5:9000/</sonar.host.url>
 		<sonar.login>squ_652e330fcb75d0dd4b67f0d59cd041b34c6d486a</sonar.login>
              
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.175.237.176:8081/repository/swiggy-proj/</url>
+	      <url>http://54.161.195.62:8081/repository/swiggy-proj/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.175.237.176:8081/repository/swiggy-snapshot/</url>
+	      <url>http://54.161.195.62:8081/repository/swiggy-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
